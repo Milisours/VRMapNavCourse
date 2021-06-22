@@ -1,0 +1,23 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Excluding non-code assets
+Mod
+Movies
+StarterContent
+VirtualReality
+
+# Exclude level builtData file as it exceeds 100MB filesize limit
+*_BuiltData*
